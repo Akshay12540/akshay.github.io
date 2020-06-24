@@ -1,0 +1,56 @@
+body {
+  background-color: pink ;
+}
+.topicdiv {
+  text-align: center;
+  color: darkslategrey
+}
+.subtitle {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: royalblue;
+    border-width: 2 px;
+  font: monospace;
+}
+.section1 {
+  background-color: grey;
+  padding: 0px 2px 10px 5px;
+  border: solid;
+  border-color: tomato;
+  border-radius: 12px;
+  color: white;
+}
+.section2 {
+  border-bottom: 2px groove royalblue;
+  border-top: 2px groove royalblue;
+  background-color: tan;
+  padding: 0px 0px 0px 5px;
+  border-radius: 5px;
+  margin: 5px;
+  font: 15px arial; 
+}
+.section3{
+  border-style: double solid;
+  margin: 5px;
+  color: Brown;
+}
+.section4 {
+  align: center;
+  background-color: green;
+  padding: 0px 5px 0px 5px
+}
+.section5 {
+  color: green;
+}
+.section6{
+  border: 1px solid;
+  color: rgb(195,17,45);
+  border-radius: 20px
+}
+.section7{
+  background-color: slateblue;
+  color: white;
+  align: center;
+  margin-top: 10px;
+  font-size: 1.5em;
+}
